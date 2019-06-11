@@ -6,7 +6,7 @@
 
 ###  二、vue进阶：[vue.js精英训练营](https://github.com/googBlogs/vue-master-lesson)
 
- > [1.1vue基础API回顾]()
+ > [1.1-vue基础API回顾]()
 
  > [1.2-组件间通讯]()
 
