@@ -18,15 +18,15 @@
 
  > [1.6-递归组件](https://github.com/googBlogs/vue-blog/issues/29)
 
- > [2.1-上期回顾]()
+ > [2.1-上期回顾](https://github.com/googBlogs/vue-blog/issues/30)
 
- > [2.2-vue-cli]()
+ > [2.2-vue-cli](https://github.com/googBlogs/vue-blog/issues/30)
 
- > [2.3-webpack配置]()
+ > [2.3-webpack配置](https://github.com/googBlogs/vue-blog/issues/30)
 
- > [2.4-Vue-router]()
+ > [2.4-Vue-router](https://github.com/googBlogs/vue-blog/issues/30)
 
- > [2.5-Vue-Ts]()
+ > [2.5-Vue-Ts](https://github.com/googBlogs/vue-blog/issues/30)
 
  > [3.1-上期回顾]()
 
