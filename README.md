@@ -6,17 +6,17 @@
 
 ###  二、vue进阶：[vue.js精英训练营](https://github.com/googBlogs/vue-master-lesson)
 
- > [1.1-vue基础API回顾]()
+ > [1.1-vue基础API回顾](https://github.com/googBlogs/vue-blog/issues/24)
 
- > [1.2-组件间通讯]()
+ > [1.2-组件间通讯](https://github.com/googBlogs/vue-blog/issues/25)
 
- > [1.3-仿写element-ui Form组件]()
+ > [1.3-仿写element-ui Form组件](https://github.com/googBlogs/vue-blog/issues/26)
 
- > [1.4-自动化测试]()
+ > [1.4-自动化测试](https://github.com/googBlogs/vue-blog/issues/27)
 
- > [1.5-仿写element-ui弹窗组件]()
+ > [1.5-仿写element-ui弹窗组件](https://github.com/googBlogs/vue-blog/issues/28)
 
- > [1.6-递归组件]()
+ > [1.6-递归组件](https://github.com/googBlogs/vue-blog/issues/29)
 
  > [2.1-上期回顾]()
 
