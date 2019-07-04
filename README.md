@@ -28,19 +28,19 @@
 
  > [2.5-Vue-Ts](https://github.com/googBlogs/vue-blog/issues/30)
 
- > [3.1-上期回顾]()
+ > [3.1-上期回顾](https://github.com/googBlogs/vue-blog/issues/31)
 
- > [3.2-Vue源码目录分析+ 入口代码剖析]()
+ > [3.2-Vue源码目录分析+ 入口代码剖析](https://github.com/googBlogs/vue-blog/issues/31)
 
- > [3.3-Vue初始化逻辑]()
+ > [3.3-Vue初始化逻辑](https://github.com/googBlogs/vue-blog/issues/31)
 
- > [3.4-provide state hook的具体代码逻辑]()
+ > [3.4-provide state hook的具体代码逻辑](https://github.com/googBlogs/vue-blog/issues/31)
 
- > [3.5-Vue全局API]()
+ > [3.5-Vue全局API](https://github.com/googBlogs/vue-blog/issues/31)
 
- > [3.6-initState响应式双向绑定原理和$Mount逻辑]()
+ > [3.6-initState响应式双向绑定原理和$Mount逻辑](https://github.com/googBlogs/vue-blog/issues/31)
 
- > [3.7-虚拟dom原理]()
+ > [3.7-虚拟dom原理](https://github.com/googBlogs/vue-blog/issues/31)
 
  > [4.1-性能优化]()
 
