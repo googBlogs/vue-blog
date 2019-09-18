@@ -41,6 +41,12 @@
  > [3.6-initState响应式双向绑定原理和$Mount逻辑](https://github.com/googBlogs/vue-blog/issues/31)
 
  > [3.7-虚拟dom原理](https://github.com/googBlogs/vue-blog/issues/31)
+ 
+ ###  三、相关知识知识
+
+> [了解ESlint和其相关操作](https://www.jianshu.com/p/f75c2aa793a9)
+
+> [深入理解ESlint](https://juejin.im/post/5d3d3a685188257206519148)
 
 
 
